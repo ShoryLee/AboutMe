@@ -2,34 +2,53 @@
 
 不期而遇，就是遇而由缘。
 
-### Markdown
+## 介绍的话
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+至少还有
+至少还有你
+至少没有你
 
-```markdown
-Syntax highlighted code block
+## 作品介绍
 
-# Header 1
-## Header 2
-### Header 3
+### 基于 Laravel 5.2 的书籍管理系统
 
-- Bulleted
-- List
+仿豆瓣读书
+GitHub: https://github.com/ShoryLee/Laravel-CangShuFang
 
-1. Numbered
-2. List
+### 基于CodeIgniter 3 的内容管理系统
 
-**Bold** and _Italic_ and `Code` text
+可用于展示型网站
+Github: https://github.com/ShoryLee/CI-MuGuang-CMS
 
-[Link](url) and ![Image](src)
-```
+## 擅长技能
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### 语言
 
-### Jekyll Themes
+* PHP
+* HTML/CSS
+* JavaScript
+* Mysql
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ShoryLee/AboutMe/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### 框架/库
 
-### Support or Contact
+#### 后端
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+* CodeIgniter
+* Laravel
+* Mysql
+
+#### 前端
+
+* Bootstrap
+* JQuery
+* ZUI
+
+## 教育经历
+
+* 柳州师范高等专科学校 - 心理咨询 2008-2011
+* 玉林师范学院 - 应用心理学      2011-2013
+
+## 工作经历
+* 广州贺氏办公设备有限公司  - 调试             2013
+* 襄阳炎黄心理研究中心  - 网站维护/网络推广     2014
+* 湖北瑞百诚电气有限公司 -  调试              2014-2017
