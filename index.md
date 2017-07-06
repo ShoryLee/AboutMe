@@ -21,6 +21,11 @@ GitHub: https://github.com/ShoryLee/Laravel-CangShuFang
 可用于展示型网站   
 Github: https://github.com/ShoryLee/CI-MuGuang-CMS
 
+### 简洁的日记博客系统
+
+可用日记记录的原生PHP小网站 
+Github: https://github.com/ShoryLee/TimeLineDiary
+
 ## 擅长技能
 
 ### 语言
